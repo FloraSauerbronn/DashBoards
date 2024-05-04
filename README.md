@@ -22,3 +22,9 @@ Monitor production metrics and optimize operations with our Production Dashboard
 [Production Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTYyNjE5ZjctMTcxNC00YWY2LWE2N2QtNjUzMDZmNTQxYTlmIiwidCI6IjViMWNiNDQ5LWNlYjItNDAyNi1iNzQ4LTcxNGIwNWMxYjRlMyJ9)
 
 ![Production Dashboard Preview](Images/Dash_Producao.png)
+
+## Human Resources Dashboard
+Monitor employees from your company, with salary, gender, area and position.
+[RH_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI5NGIwNGYtNGMzMi00ZjFiLWEyYmEtZDhhNTgxY2YwNjJjIiwidCI6IjViMWNiNDQ5LWNlYjItNDAyNi1iNzQ4LTcxNGIwNWMxYjRlMyJ9)
+
+![HR Dashboard Preview](Images/Dash_RH.png)
